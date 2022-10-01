@@ -8,3 +8,5 @@
 ### [실전! 스프링 부트와 JPA 활용1](https://github.com/yeonjiyeon/SpringStudy/tree/main/JPAStudy/jpashop)
 
 ### Spring Boot를 이용한 RESTful Web Services 개발
+
+### 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
