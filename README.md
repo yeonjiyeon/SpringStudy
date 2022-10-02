@@ -1,6 +1,6 @@
 # SpringStudy
 ## Spring 공부한 것들 기록
-### 스프링 입문
+### [스프링 입문](https://github.com/yeonjiyeon/SpringStudy/tree/main/hello-spring)
 ### 스프링 핵심 원리 - 기본편
 ### 모든 개발자르 위한 HTTP 웹 기본 지식
 
